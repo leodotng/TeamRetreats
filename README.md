@@ -1,4 +1,8 @@
-# teamretreats
+# TeamRetreats.io
+We organize and strengthen teams by leading amazing retreats!
+
+Team leaders can initiate retreats filled with adventures, relaxation and collaborative fun to improve team cohesiveness.
+www.TeamRetreats.io
 
 ## Project setup
 ```
